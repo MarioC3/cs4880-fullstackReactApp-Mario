@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cs4880fullstackreactappmariod8f4c3c5": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
